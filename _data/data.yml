@@ -99,6 +99,19 @@ experiences:
           - Bullet point
           - Bullet point 
 
+    - role: Nanodegree Mentor
+      time: 2017 - Present
+      company: Udacity, Remote
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
     - role: Associate Software Engineer
       time: 2016 - 2017
       company: ACI Worldwide, Pune
@@ -112,18 +125,6 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Nanodegree Mentor
-      time: 2016 - Present
-      company: Udacity, Remote
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
