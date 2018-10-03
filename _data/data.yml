@@ -7,37 +7,40 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Omkar Patil
-    tagline: Software Engineer
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: omkarpatil9675@gmail.com
-    phone: 91 7507519643
+    email: hello@webjeda.com
+    phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: omkarpat
+    github: sharu725
     gitlab:
     bitbucket:
-    twitter:
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Professional
-
-      - idiom: Hindi
-        level: Professional
-
-      - idiom: Marathi
         level: Native
+
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
         
     interests:
-      - item: Trekking
+      - item: Climbing
         link:
 
-      - item: Photography
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
         link:
 
 career-profile:
@@ -174,18 +177,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python & Django
         level: 98%
 
-      - name: Javascript & node.js
-        level: 90%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Java
-        level: 85%
+      - name: Angular
+        level: 98%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 95%
 
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Omkar Patil</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
