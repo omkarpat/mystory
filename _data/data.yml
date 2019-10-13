@@ -96,7 +96,7 @@ projects:
 
     assignments:
       - title: Face generator
-        link: "https://github.com/omkarpat/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb"
+        link: "#https://github.com/omkarpat/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb"
         tagline: "Trained a generative adversarial network using tensorflow to generate new faces from celebA database. Languages/Frameworks used: Python, Tensorflow, Jupyter Notebook"
 
       - title: DevStudio
