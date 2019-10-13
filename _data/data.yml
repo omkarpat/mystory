@@ -86,44 +86,27 @@ experiences:
       time: 2017 - 2019
       company: Unscrambl, Pune
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Led chatbot development projects for two major banks in the Philippines, currently used by over 30,000 users.
+        - Built dialog flows and integration adapters with third-party platforms like Facebook Messenger, Slack, Microsoft Teams.
+        - Implemented context management, intent and entity recognizers using RASA NLU & Microsoft LUIS and created telemetry analytics dashboards.
+        - Incorporated statistical and machine learning models in the Unscrambl Drive platform for customer segmentation, user profiling, variance analysis, purchase propensity calculation for the biggest Telecom in the Philippines.
+        - Constructed complete data pipelines for data preprocessing, aggregating, analyzing and generating visualizations for various clients.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Nanodegree Mentor
+    - role: Student Mentor
       time: 2017 - 2018
       company: Udacity, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Classroom mentor and project reviewer for "Udacity Deep Learning Foundations Nanodegree".
+        - Mentored 100+ international students for the course including Q&A sessions with the students regarding various projects and course material.
+        - Reviewed and graded 100+ assignment projects related to the course.
 
     - role: Associate Software Engineer
       time: 2016 - 2017
       company: ACI Worldwide, Pune
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Worked on a major release for enhancing an existing commercial online banking software using Java-related technologies in the forward development team.
+        - Added a feature of dynamic reloading of modified spring components in the application. This eliminated the need for a complete application server restart after any modifications were made to the spring code. The change deployment time reduced from about an hour to 3-4 minutes.
+        - Developed and maintained an automated REST API testing framework for a banking application.
 
 
 projects:
