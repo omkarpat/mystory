@@ -34,13 +34,26 @@ sidebar:
         level: Native
 
     interests:
+      - item: Natural Language Processing
+        link:
+
+      - item: Machine Learning
+        link:
+
+      - item: Data Science
+        link:
+
+    hobblies:
       - item: Backpacking
         link:
 
       - item: Hiking
         link:
 
-      - item: Cooking
+      - item: Photography
+        link:
+
+      - item: Dramatics
         link:
 
 career-profile:
