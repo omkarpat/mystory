@@ -96,7 +96,7 @@ projects:
 
     assignments:
       - title: Face generator
-        link: "#https://github.com/omkarpat/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb"
+        link: "https://github.com/omkarpat/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb"
         tagline: "Trained a generative adversarial network using tensorflow to generate new faces from celebA database. Languages/Frameworks used: Python, Tensorflow, Jupyter Notebook"
 
       - title: DevStudio
@@ -122,7 +122,7 @@ publications:
 
     papers:
       - title: Content-based auto-tagging of audios using deep learning
-        link: "#https://ieeexplore.ieee.org/abstract/document/8336569"
+        link: "https://ieeexplore.ieee.org/abstract/document/8336569"
         authors: Rashmeet Kaur Nayyar, Omkar Patil
         conference: "International Conference on Big Data, IoT and Data Science (BID), 2017"
 
