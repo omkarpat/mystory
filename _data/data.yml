@@ -123,11 +123,11 @@ publications:
     papers:
       - title: Content-based auto-tagging of audios using deep learning
         authors: Rashmeet Kaur Nayyar, Omkar Patil
-        conference: International Conference on Big Data, IoT and Data Science (BID), 2017
+        conference: "International Conference on Big Data, IoT and Data Science (BID), 2017"
 
       - title: Meta-App A Pull-Based Approach
         authors: Tushar Badgu, Omkar Patil, Abhidnya Patil, Snehal Raskar
-        conference: "National Conference on Advancements in Computer & Information Technology", 2016
+        conference: "National Conference on Advancements in Computer and Information Technology, 2016"
 
 skills:
     title: Skills &amp; Proficiency
