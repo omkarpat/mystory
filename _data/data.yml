@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: omkarpatil9675@gmail.com
-    phone: 91 7507519643
+    phone: +1(831)295-0286
     website:  #do not add http://
     linkedin: omkarpat
     github: omkarpat
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -32,12 +32,12 @@ sidebar:
 
       - idiom: Marathi
         level: Native
-        
+
     interests:
-      - item: Climbing
+      - item: Backpacking
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
       - item: Cooking
@@ -55,9 +55,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Computer Science & Engineering
+      university: University of California, Santa Cruz
+      time: 2019 - Ongoing
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,11 +66,11 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BE in Computer Engineering
+      university: Pune Institute of Computer Technology, University of Pune
+      time: 2012 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,11 +79,11 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Software Development Engineer
-      time: 2017 - Present
+      time: 2017 - 2019
       company: Unscrambl, Pune
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -97,10 +97,10 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Nanodegree Mentor
-      time: 2017 - Present
+      time: 2017 - 2018
       company: Udacity, Remote
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -178,7 +178,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Javascript & jQuery
