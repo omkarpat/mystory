@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Omkar Patil
-    tagline: Full Stack Developer
+    tagline: Full Stack Developer | Data Science Enthusiast
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: omkarpatil9675@gmail.com
     phone: +1(831)295-0286
-    website:  #do not add http://
+    website:  omkarpat.github.io
     linkedin: omkarpat
     github: omkarpat
     gitlab:
@@ -162,13 +162,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Typescript
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
