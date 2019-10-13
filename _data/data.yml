@@ -99,21 +99,21 @@ projects:
         link: "https://github.com/omkarpat/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb"
         tagline: "Trained a generative adversarial network using tensorflow to generate new faces from celebA database. Languages/Frameworks used: Python, Tensorflow, Jupyter Notebook"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Content-based audio auto-tagger using deep learning
+        link: "https://github.com/Rashmeet09/AutoTaggingAudios_DeepLearning"
+        tagline: "Tackled the multi-label classification problem of accurate prediction of tages for audios. The experiment was performed on MagnaTagATune (MTT) dataset using Convolutional Neural Network (CNN) and Convolutional Recurrent Neural Network (CRNN). An AUC-ROC score of 0.886 was achieved. 40 fixed tags in emotions, instruments, genre could then predicted for new tracks."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Neural network from scratch
+        link: "https://github.com/omkarpat/Deep-Learning-NanoDegree/tree/master/dlnd-your-first-network"
+        tagline: "Developed a complete neural network from scratch using numpy to understand the fundamentals .Implemented the Forward and Backword Propogation passes, wrote my own implementation of sigmoid which was used as an activation function and trained the network on bike dataset to find the optimum number of bikes required each day. Tweaked the hyper-parameters to understand the variations and effects on the accuracy of the network."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Meta-App | A framework for incognito mode for smartphone applications
+        link: "https://github.com/omkarpat/metaapp"
+        tagline: "An Intent Publishing solution which can be used by the user to request offers from dealers anonymously."
 
-      - title: Delta
+      - title: Centralized student database
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Setup a Hadoop cluster to act as a centralized location to store student information (attendance, marks and teachers' recommendations and comments about the student) in JSON objects. It could be useful when student is switching classes or schools to convey a better student profile over traditional quantitative attributes."
 
 publications:
     title: Publications
@@ -123,11 +123,12 @@ publications:
     papers:
       - title: Content-based auto-tagging of audios using deep learning
         link: "https://ieeexplore.ieee.org/abstract/document/8336569"
-        authors: Rashmeet Kaur Nayyar, Omkar Patil
+        authors: Rashmeet Kaur Nayyar; Sushmita Nair; Omkar Patil; Rasika Pawar; Amruta Lolage
         conference: "International Conference on Big Data, IoT and Data Science (BID), 2017"
 
       - title: Meta-App A Pull-Based Approach
-        authors: Tushar Badgu, Omkar Patil, Abhidnya Patil, Snehal Raskar
+        link: "https://www.ijcaonline.org/proceedings/ncacit2016/number7/24737-3092"
+        authors: Tushar Badgu; Omkar Patil; Abhidnya Patil; Snehal Raskar
         conference: "National Conference on Advancements in Computer and Information Technology, 2016"
 
 skills:
